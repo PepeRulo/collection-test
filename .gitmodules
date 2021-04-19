@@ -4,3 +4,6 @@
 [submodule "map-reduce"]
 	path = map-reduce
 	url = https://github.com/PepeRulo/map-reduce
+[submodule "raft"]
+	path = raft
+	url = https://github.com/PepeRulo/raft
