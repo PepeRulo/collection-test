@@ -1,3 +1,6 @@
 [submodule "key-value-store"]
 	path = key-value-store
 	url = https://github.com/PepeRulo/key-value-store
+[submodule "map-reduce"]
+	path = map-reduce
+	url = https://github.com/PepeRulo/map-reduce
